@@ -1,4 +1,19 @@
-
+.calendar {
+    width: 200px;
+    height: 200px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    color: #333;
+  }
+  
+  .counter {
+    font-weight: bold;
+  }
 /* 
 
     You can write your own styles here...
